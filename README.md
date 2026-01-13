@@ -1,11 +1,10 @@
 # Hyunhee Noh
 
 
-🔗 **Live Site**  
-https://bb545.github.io/
+🔗 **Live Site**  https://bb545.github.io/
 
 
-
+<br />
 
 ## 📌 소개
 React와 TypeScript를 사용해 제작한 개인 이력서 웹사이트입니다.  
@@ -13,7 +12,7 @@ React와 TypeScript를 사용해 제작한 개인 이력서 웹사이트입니�
 GitHub Pages를 통해 정적 사이트로 배포했습니다.
 
 
-
+<br />
 
 ## 🛠 기술 스택
 - React
@@ -23,7 +22,7 @@ GitHub Pages를 통해 정적 사이트로 배포했습니다.
 - GitHub Pages
 
 
-
+<br />
 
 ## ✨ 주요 기능
 - SPA(Single Page Application) 기반 이력서 페이지
@@ -31,13 +30,13 @@ GitHub Pages를 통해 정적 사이트로 배포했습니다.
 - GitHub Pages를 통한 배포
 
 
-
+<br />
 
 ## 🚀 배포
 - GitHub Pages를 이용한 정적 웹사이트 배포
 
 
-
+<br />
 
 ## 📂 목적
 본 프로젝트는 개인 포트폴리오 및 이력서 공유를 목적으로 제작되었습니다.
